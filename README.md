@@ -1,0 +1,1 @@
+# firefox-drag-to-check
